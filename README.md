@@ -1,3 +1,6 @@
+# PLEASE DO NOT USE THIS PACKAGE
+This repo currently only exists to support a few applications floating out there in the world.  Reasonable PhantomJS 2 support via npm is now available and there is no longer a good reason for this to exist.
+
 phantomjs
 =========
 
